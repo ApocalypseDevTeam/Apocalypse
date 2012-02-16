@@ -1,0 +1,41 @@
+#Project Name
+PROJECT_NAME = "Apocalypse"
+
+#Language
+OUTPUT_LANGUAGE = "English"
+
+#Output directory
+OUTPUT_DIRECTORY = "doc" 
+
+
+
+
+
+#YES/NO Options
+
+#HTML documentation
+GENERATE_HTML = YES
+
+#Browser navigation
+SOURCE_BROWSER = YES
+
+#Latext documentation 
+GENERATE_LATEX = NO 
+
+#Recursive
+RECURSIVE = YES 
+
+#Macro
+MACRO_EXPANSION = YES
+
+#Tag inline
+INLINE_INFO = YES
+
+#Macro
+ENABLE_PREPROCESSING = YES
+
+#Relations
+TEMPLATE_RELATIONS = YES
+
+#Search
+SEARCHENGINE = NO
